@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETED",
+  "decision": "WAIT",
+  "slippage_context": {
+    "estimated_bps": 142,
+    "risk_level": "HIGH"
+  },
+  "liquidity_context": "insufficient",
+  "gas_context": "elevated",
+  "recommendation": "split_order_or_wait"
+}
