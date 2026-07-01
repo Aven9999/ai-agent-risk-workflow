@@ -1,0 +1,12 @@
+{
+  "status": "COMPLETED",
+  "verdict": "DENY",
+  "checks": {
+    "position_size": "EXCEED",
+    "slippage_constraint": "PASS",
+    "deny_list": "PASS"
+  },
+  "remediation_hints": [
+    "reduce_position_size_below_threshold"
+  ]
+}
